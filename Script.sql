@@ -18,8 +18,8 @@
 # Tabelas: grupo, era, descobridor, dinossauro
 
 # 4 COMANDO SQL PARA CRIAÇÃO DO BANCO
-# CREATE DATABASE IF NOT EXISTS dinossauros;
-# USE dinossauros;
+CREATE DATABASE IF NOT EXISTS dinossauros;
+USE dinossauros;
 
 #5 CRIAÇÃO DAS TABELAS
 
